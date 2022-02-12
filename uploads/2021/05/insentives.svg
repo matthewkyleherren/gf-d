@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="472px" viewBox="0 0 360 472" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>insentives</title>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Identity" transform="translate(-930.000000, -3198.000000)">
+            <g id="insentives" transform="translate(930.000000, 3198.000000)">
+                <path d="M359.5,0.5 L359.5,158.538733 L181.37365,232.170565 L0.5,158.536788 L0.5,0.5 L359.5,0.5 Z" id="Rectangle" stroke="#0058FE"></path>
+                <circle id="Oval-Copy" stroke="#FE4F00" cx="179" cy="360" r="51.5"></circle>
+                <path d="M179,334 C185.627417,334 191,339.372583 191,346 C191,349.698969 189.326383,353.007044 186.695078,355.208298 C196.736826,358.451767 204,367.877681 204,379 L204,380 L154,380 L154,379 C154,367.877681 161.263174,358.451767 171.305214,355.206567 C168.673617,353.007044 167,349.698969 167,346 C167,339.372583 172.372583,334 179,334 Z" id="Combined-Shape-Copy" stroke="#000000"></path>
+                <circle id="Oval-Copy" stroke="#FF55FE" cx="179" cy="360" r="81.5"></circle>
+                <circle id="Oval-Copy" stroke="#0058FE" cx="179" cy="360" r="111.5"></circle>
+                <polyline id="Path-2" stroke="#00E600" points="141 114.855614 205.157123 70.286433 270.865251 70.286433 341 20"></polyline>
+                <polyline id="Path-2-Copy-2" stroke="#FF55FE" points="141 142 199.019063 110.339067 290.91173 96.6715225 341 51.6510398"></polyline>
+                <polyline id="Path-2-Copy" stroke="#0058FE" points="141 124.784569 177.244232 100.90771 311.533532 68.2466294 341 28.327323"></polyline>
+                <rect id="Rectangle" stroke="#FF55FE" x="19" y="55" width="29.6" height="87"></rect>
+                <rect id="Rectangle-Copy-5" stroke="#00E600" x="100.4" y="77" width="29.6" height="65"></rect>
+                <rect id="Rectangle-Copy-3" stroke="#0058FE" x="59.7" y="20" width="29.6" height="122"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
